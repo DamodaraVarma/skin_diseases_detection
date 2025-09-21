@@ -1,7 +1,3 @@
-Got it 👍 Here’s a **`README.txt`** draft tailored for your **Skin Diseases Detection** project (assuming it’s a final-year software/AI project in `C:\skin_diseases_detection`):
-
----
-
 # 🩺 Skin Diseases Detection using Deep Learning
 
 ## 📌 Overview
